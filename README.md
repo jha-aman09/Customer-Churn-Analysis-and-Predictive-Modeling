@@ -13,10 +13,8 @@ This repository contains the code and resources for a **Customer Churn Analysis*
 ├── data/
 │   ├── clean_data_after_eda.csv   # Cleaned dataset after exploratory data analysis
 │   ├── price_data.csv             # Pricing dataset with temporal features
-│   ├── data_for_predictions.csv   # Dataset used for predictive modeling
-├── results/
-│   ├── engineered_features.csv    # Transformed dataset with engineered features
-│   └── evaluation_metrics.txt     # Key evaluation results of the predictive model
+│   └── data_for_predictions.csv   # Dataset used for predictive modeling
+├── Summary.pptx
 └── README.md                      # Project documentation
 ```
 ---
@@ -51,11 +49,11 @@ The **`predictive_modeling.py`** script builds and evaluates a Random Forest Cla
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/churn-prediction.git
+   git clone https://github.com/jha-aman09/Customer-Churn-Analysis-and-Predictive-Modeling.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd churn-prediction
+   cd Customer-Churn-Analysis-and-Predictive-Modeling
    ```
 3. Install required Python packages:
    ```bash

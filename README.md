@@ -19,6 +19,13 @@ This repository contains the code and resources for a **Customer Churn Analysis*
 ```
 ---
 
+## 🔗 Files and Links
+
+- [Feature Engineering Notebook](https://colab.research.google.com/drive/1hXRlra5V_htdK8I3nqhkxE6jT_QQUCfJ?usp=sharing)  
+- [Predictive Modeling Notebook](https://colab.research.google.com/drive/1yjihKrNX8stvxkYxYqkVamvaDCu67KkD?usp=sharing)
+
+---
+
 ## 🚀 Project Workflow
 
 ### 1. **Feature Engineering**
